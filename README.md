@@ -24,3 +24,8 @@ http://it-ebooks.info/book/875/
 
 http://it-ebooks.info/book/968/
 
+
+Spring reference:
+-----------------
+http://docs.spring.io/spring/docs/3.2.4.RELEASE/spring-framework-reference/html/
+
