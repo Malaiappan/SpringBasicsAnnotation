@@ -1,6 +1,8 @@
 
 package com.spring.samples;
 
+import org.springframework.stereotype.Component;
+
 
 
 /**
@@ -10,7 +12,7 @@ package com.spring.samples;
  * @since 15-Sep-2013
  * @version 1.0
  */
-// @Component
+ @Component
 public class HelloSpring {
 
     /**

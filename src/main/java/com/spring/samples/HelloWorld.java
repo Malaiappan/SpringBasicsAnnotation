@@ -1,6 +1,7 @@
 package com.spring.samples;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 /**
  * HelloWorld class
@@ -9,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * @since 15-Sep-2013
  * @version 1.0
  */
-// @Component
+ @Component
 public class HelloWorld {
 
     private final HelloSpring helloSpring;
