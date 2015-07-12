@@ -1,7 +1,7 @@
 SpringBasicsAnnotation
 ======================
 
-Spring core concepts with annotation based configurations
+Sample spring core concepts with annotation based configurations
 
 
 
